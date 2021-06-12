@@ -2,7 +2,7 @@
 
 
 
-My name is Christian Kubelle. I am a software engineer based out of New York City. Currently I am pursuing a degree in software engineering at Stevens Institute of Technology. I have enterprise experience in back-end software development and a passion in creating functional software that benefits everyone. 
+My name is Christian. I am a software engineer based out of New York City. Currently I am pursuing a degree in software engineering at Stevens Institute of Technology. I have enterprise experience in back-end software development and a passion in creating functional software that benefits everyone. 
 
 ## 🛠  Tech that I know
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFD43B" alt="Python logo" title="Python" height="25" /> <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F05032" alt="Java logo" title="Java" height="25" />
