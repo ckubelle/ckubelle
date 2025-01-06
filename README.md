@@ -1,8 +1,8 @@
-# Hey! <img src="https://user-images.githubusercontent.com/44238558/121788468-7d732680-cb9b-11eb-97bd-597208513cbe.gif" width="35px">
+# Hey!
 
 
 
-My name is Christian. I am a software engineer based out of New York City. Currently I am pursuing a degree in software engineering at Stevens Institute of Technology. I have enterprise experience in back-end software development and a passion in creating functional software that benefits everyone. 
+My name is Christian. I'm currently a site reliability engineer specializing in the high-frequency trading industry
 
 ## 🛠  Tech that I know
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFD43B" alt="Python logo" title="Python" height="25" /> <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F05032" alt="Java logo" title="Java" height="25" />
@@ -17,8 +17,4 @@ My name is Christian. I am a software engineer based out of New York City. Curre
 ## 📖  Tech that I am learning
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=0db7ed" alt="Docker logo" title="Docker" height="25" /> <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-
-## &#x1f4c8; My Github Stats
-![](https://github-readme-stats.vercel.app/api?username=ckubelle) 
-
 
